@@ -1,14 +1,11 @@
 # Processador de Vídeo Distribuído (O "Herói")
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://opensource.org/licenses/Apache-2.0)
 ![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg_%2F_JavaCV-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 Este projeto consiste na re-implementação do sistema de processamento de vídeos utilizando uma arquitetura de microsserviços orientada a eventos. Ele foi desenvolvido como a contraparte ("O Herói") ao sistema monolítico, com o objetivo de demonstrar ganhos em escalabilidade, resiliência e processamento paralelo assíncrono.
 
